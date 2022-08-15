@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "joi": "^17.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "name": "practice-react-node-app",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoxCrush/practice-react-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FoxCrush/practice-react-node-app/issues"
+  },
+  "homepage": "https://github.com/FoxCrush/practice-react-node-app#readme"
+}
